@@ -1,0 +1,1 @@
+# SO-paralelismo-imagenes-base-
